@@ -18,3 +18,16 @@ view port: 가장 큰 화면. 실제로 3D 모델을 보고, 편집하는 공간
 outliner: 우측 상단, 요소 확인 및 hide, unhide 가능 
 properies: 우측 하단, 속성 제어
 timeline: 하단, 애니메이션 키 프레임 제어
+
+마우스 휠: 화면 회전
+마우스 휠 + shift: 화면 움직임
+마우스 휠 위,  아래: 줌 인/아웃
+
+top view: 키패드 7번
+bottom view: 키패드 9번
+front view: 키패드 1번
+right view: 키패드 3번
+back view: ctrl+키패드 1번
+left view: ctrl+키패드 3번
+~: 클릭시 그냥 마우스로 원하는 view 전환 가능
+perspective/orthographic: 키패드 5번으로 전환 가능
