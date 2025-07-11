@@ -32,4 +32,14 @@ left view: ctrl+키패드 3번
 ~: 클릭시 그냥 마우스로 원하는 view 전환 가능
 perspective/orthographic: 키패드 5번으로 전환 가능
 
-blender 공부 3일차(7/9)
+blender 공부 3일차(7/11)
+object mode: 점, 선, 면이 분리되지 않은 상태에서 덩어리 단위 편집 가능
+Edit mode: 점, 선, 면 따로 선택하여 편집 가능
+mode 전환: tab
+
+viewport shading
+wire frame: 면을 투명하게 하여 edge만 노축 되도록 함
+solid: 면이 노출되어 회색으로 음영을 표시함
+Material Preview: 질감 표시함
+Rendered: 렌더링 된 결과와 동일한 형태를 표현함
+X-Ray: 보이지 않는 부분의 객체를 선택할 때 사용됨
